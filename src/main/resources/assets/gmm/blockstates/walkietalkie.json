@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "gmm:block/walkietalkie" },
+    "facing=south": { "model": "gmm:block/walkietalkie", "y":  180},
+    "facing=west": { "model": "gmm:block/walkietalkie", "y":  270},
+    "facing=east": { "model": "gmm:block/walkietalkie", "y":  90}
+  }
+}

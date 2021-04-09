@@ -1,0 +1,10 @@
+{
+	"parent": "gmm:item/mtcasino_blauw",
+	"texture_size": [
+		64,
+		64
+	],
+	"textures": {
+		"1": "gmm:items/mtcasino_groen"
+	}
+}

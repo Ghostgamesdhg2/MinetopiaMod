@@ -1,0 +1,15 @@
+{
+	"parent": "gmm:item/paraplu_roodwit",
+	"textures": {
+		"0": "gmm:blocks/planks_spruce",
+		"2": "gmm:blocks/concrete_red",
+		"3": "gmm:blocks/concrete_orange",
+		"4": "gmm:blocks/concrete_yellow",
+		"5": "gmm:blocks/concrete_lime",
+		"6": "gmm:blocks/concrete_light_blue",
+		"7": "gmm:blocks/concrete_pink",
+		"8": "gmm:blocks/concrete_purple",
+		"9": "gmm:blocks/concrete_blue",
+		"10": "gmm:blocks/bone_block_side"
+	}
+}

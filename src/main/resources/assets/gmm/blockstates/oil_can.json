@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "gmm:block/oil_can" },
+    "facing=south": { "model": "gmm:block/oil_can", "y":  180},
+    "facing=west": { "model": "gmm:block/oil_can", "y":  270},
+    "facing=east": { "model": "gmm:block/oil_can", "y":  90}
+  }
+}

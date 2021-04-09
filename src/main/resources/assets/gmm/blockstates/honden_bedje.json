@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "gmm:block/honden_bedje" },
+    "facing=south": { "model": "gmm:block/honden_bedje", "y":  180},
+    "facing=west": { "model": "gmm:block/honden_bedje", "y":  270},
+    "facing=east": { "model": "gmm:block/honden_bedje", "y":  90}
+  }
+}

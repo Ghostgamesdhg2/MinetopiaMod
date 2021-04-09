@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "gmm:block/boombox" },
+    "facing=south": { "model": "gmm:block/boombox", "y":  180},
+    "facing=west": { "model": "gmm:block/boombox", "y":  270},
+    "facing=east": { "model": "gmm:block/boombox", "y":  90}
+  }
+}

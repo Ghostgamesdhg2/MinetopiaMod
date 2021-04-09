@@ -1,0 +1,9 @@
+{
+	"parent": "gmm:item/duikbril_blauw",
+	"textures": {
+		"particle": "gmm:blocks/hardened_clay_stained_yellow",
+		"color": "gmm:blocks/hardened_clay_stained_yellow",
+		"black": "gmm:blocks/hardened_clay_stained_black",
+		"color2": "gmm:blocks/hardened_clay_stained_orange"
+	}
+}

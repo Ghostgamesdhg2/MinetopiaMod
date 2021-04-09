@@ -1,0 +1,6 @@
+{
+  "parent": "gmm:item/gokuhair",
+  "textures": {
+    "texture": "gmm:items/gokupink"
+  }
+}

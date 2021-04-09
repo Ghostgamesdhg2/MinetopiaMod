@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "ddd",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:bread"
+    },
+    "d":
+    {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result":
+  {
+    "item": "gmm:hamburger",
+    "count": 1
+  }
+}

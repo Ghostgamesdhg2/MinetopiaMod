@@ -1,0 +1,7 @@
+{
+	"parent": "gmm:item/weed",
+	"textures": {
+		"0": "gmm:items/purple_weed",
+		"particle": "gmm:items/purple_weed"
+	}
+}

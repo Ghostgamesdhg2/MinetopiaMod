@@ -1,0 +1,6 @@
+{
+	"parent": "gmm:item/planga_geel",
+	"textures": {
+		"1": "gmm:blocks/hardened_clay_stained_red"
+	}
+}

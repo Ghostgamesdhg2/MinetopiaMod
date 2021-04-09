@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "gmm:block/kerst_slingers" },
+    "facing=south": { "model": "gmm:block/kerst_slingers", "y":  180},
+    "facing=west": { "model": "gmm:block/kerst_slingers", "y":  270},
+    "facing=east": { "model": "gmm:block/kerst_slingers", "y":  90}
+  }
+}

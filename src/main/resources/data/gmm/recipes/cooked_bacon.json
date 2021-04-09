@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "gmm:bacon"
+  },
+  "result": "gmm:cooked_bacon",
+  "experience": 0.0,
+  "cookingtime": 100
+}

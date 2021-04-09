@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "gmm:block/microfoon" },
+    "facing=south": { "model": "gmm:block/microfoon", "y":  180},
+    "facing=west": { "model": "gmm:block/microfoon", "y":  270},
+    "facing=east": { "model": "gmm:block/microfoon", "y":  90}
+  }
+}

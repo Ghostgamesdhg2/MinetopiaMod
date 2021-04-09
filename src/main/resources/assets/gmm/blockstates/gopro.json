@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "gmm:block/gopro" },
+    "facing=south": { "model": "gmm:block/gopro", "y":  180},
+    "facing=west": { "model": "gmm:block/gopro", "y":  270},
+    "facing=east": { "model": "gmm:block/gopro", "y":  90}
+  }
+}

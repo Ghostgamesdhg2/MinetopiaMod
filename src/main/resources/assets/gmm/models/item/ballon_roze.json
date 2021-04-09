@@ -1,0 +1,6 @@
+{
+  "parent": "gmm:item/ballon_blauw",
+  "textures": {
+    "ballon": "gmm:items/hardened_clay_stained_magenta"
+  }
+}
