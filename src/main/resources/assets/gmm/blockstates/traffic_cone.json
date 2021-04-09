@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "gmm:block/traffic_cone" },
-    "facing=south": { "model": "gmm:block/traffic_cone", "y":  180},
-    "facing=west": { "model": "gmm:block/traffic_cone", "y":  270},
-    "facing=east": { "model": "gmm:block/traffic_cone", "y":  90}
-  }
-}

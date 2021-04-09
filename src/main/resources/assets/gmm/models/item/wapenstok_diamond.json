@@ -1,6 +1,0 @@
-{
-	"parent": "gmm:item/wapenstok",
-	"textures": {
-		"politie": "gmm:blocks/diamond_block"
-	}
-}

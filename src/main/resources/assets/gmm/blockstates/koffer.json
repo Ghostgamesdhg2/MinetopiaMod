@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "gmm:block/koffer" },
-    "facing=south": { "model": "gmm:block/koffer", "y":  180},
-    "facing=west": { "model": "gmm:block/koffer", "y":  270},
-    "facing=east": { "model": "gmm:block/koffer", "y":  90}
-  }
-}

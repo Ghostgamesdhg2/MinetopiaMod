@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "gmm:block/vending_machine" },
-    "facing=south": { "model": "gmm:block/vending_machine", "y":  180},
-    "facing=west": { "model": "gmm:block/vending_machine", "y":  270},
-    "facing=east": { "model": "gmm:block/vending_machine", "y":  90}
-  }
-}

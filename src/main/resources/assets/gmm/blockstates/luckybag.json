@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "gmm:block/luckybag" },
-    "facing=south": { "model": "gmm:block/luckybag", "y":  180},
-    "facing=west": { "model": "gmm:block/luckybag", "y":  270},
-    "facing=east": { "model": "gmm:block/luckybag", "y":  90}
-  }
-}

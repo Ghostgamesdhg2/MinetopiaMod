@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "gmm:block/prullenbak" },
-    "facing=south": { "model": "gmm:block/prullenbak", "y":  180},
-    "facing=west": { "model": "gmm:block/prullenbak", "y":  270},
-    "facing=east": { "model": "gmm:block/prullenbak", "y":  90}
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "gmm:block/pumpkin" },
-    "facing=south": { "model": "gmm:block/pumpkin", "y":  180},
-    "facing=west": { "model": "gmm:block/pumpkin", "y":  270},
-    "facing=east": { "model": "gmm:block/pumpkin", "y":  90}
-  }
-}

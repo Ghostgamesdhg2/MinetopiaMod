@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "gmm:chicken"
-  },
-  "result": "gmm:cooked_chicken",
-  "experience": 2.0,
-  "cookingtime": 100
-}

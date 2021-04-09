@@ -1,9 +1,0 @@
-{
-	"parent": "gmm:item/paraplu_roodwit",
-	"textures": {
-		"0": "gmm:blocks/planks_spruce",
-		"1": "gmm:blocks/bone_block_side",
-		"2": "gmm:blocks/concrete_blue",
-		"particle": "gmm:blocks/bone_block_side"
-	}
-}

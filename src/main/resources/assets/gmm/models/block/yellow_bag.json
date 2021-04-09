@@ -1,6 +1,0 @@
-{
-  "parent": "gmm:item/green_bag",
-  "textures": {
-    "0": "gmm:blocks/blockz/bag_main_gold"
-  }
-}

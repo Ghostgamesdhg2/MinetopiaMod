@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "gmm:block/lit_oven" },
-    "facing=south": { "model": "gmm:block/lit_oven", "y":  180},
-    "facing=west": { "model": "gmm:block/lit_oven", "y":  270},
-    "facing=east": { "model": "gmm:block/lit_oven", "y":  90}
-  }
-}

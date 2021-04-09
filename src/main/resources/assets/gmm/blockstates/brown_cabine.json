@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "gmm:block/brown_cabine" },
-    "facing=south": { "model": "gmm:block/brown_cabine", "y":  180},
-    "facing=west": { "model": "gmm:block/brown_cabine", "y":  270},
-    "facing=east": { "model": "gmm:block/brown_cabine", "y":  90}
-  }
-}
