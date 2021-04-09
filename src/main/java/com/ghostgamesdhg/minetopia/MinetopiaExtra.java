@@ -16,7 +16,7 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.EventListenerProxy;
 
-@Mod("gmm")
+@Mod("gm")
 public class MinetopiaExtra
 {
     private static final Logger LOGGER = LogManager.getLogger();
